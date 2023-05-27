@@ -40,4 +40,5 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
    
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/Amandavannuccic)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandavannuccic-username&show_icons=true)
+
