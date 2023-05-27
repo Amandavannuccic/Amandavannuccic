@@ -28,6 +28,7 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/75a4dd61-555d-4614-8de2-79a59293ed66)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/6b78503f-9662-459e-809a-f55a72284598)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/06df2867-7754-4da6-a2c3-a2f064435024)
+
   
 ## Meus Repositórios:
 
@@ -36,3 +37,6 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/b52cdf87-009b-4f8d-bc35-25e07ada5b81)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/7129f69b-f87f-4158-9544-23344fe15395)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/a77e715b-b4a4-4982-b1e1-b932830ed5f7)
+![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0dc54dc2-ed4a-469d-b3b7-9947c4901789)
+![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0bcabec6-8f2d-428f-8278-acab84e2e993)
+
