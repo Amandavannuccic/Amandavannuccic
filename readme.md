@@ -16,8 +16,8 @@ Procuro colaborar em projetos de desenvolvimento de aplicações pela Fatec-SJC.
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0babb94d-7ba6-4ad9-a77e-904810c1064e)
 Pergunte-me sobre Python, Customer Tkinter, Tkinter, Matplotlib e Readme.md.
   
-[![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/07e47601-1961-4d85-b2e1-abb9e4f42def)](https://www.linkedin.com/in/amanda-vannucci-de-campos/)
-Você pode me encontrar através de meu linkedin
+![LinkedIn](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/07e47601-1961-4d85-b2e1-abb9e4f42def)
+Você pode me encontrar através de meu [linkedin](https://www.linkedin.com/in/amanda-vannucci-de-campos/)
  
 ## Linguagens e Ferramentas
 Linguagens de programação e ferramentas com as quais estou familiarizada:
