@@ -1,7 +1,7 @@
 ## <h1 align="center"> Bem-vindo(a) ao meu repositório!![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/274959f4-3802-4c26-bcd1-89abcb1e56f1)
 <h1/> 
 
-<h3 align="center">Sou Amanda Vannucci e estou feliz por te receber por aqui!</h3>
+<h3 align="center">Sou Amanda Vannucci e estou feliz em te receber por aqui!</h3>
 
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/43fec760-0e5f-467c-9922-c88e06a5f7c3)
 Atualmente trabalho em projetos pessoais e da faculdade em linguagem Python.
