@@ -31,7 +31,7 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
   
 ## Meus Repositórios:
 
-![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/f586cfe5-ba13-43aa-86be-68c571e4e394)
+[![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/f586cfe5-ba13-43aa-86be-68c571e4e394)](https://github.com/Amandavannuccic/Banco-de-Dados)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/eb505c11-e51a-48f4-8ad3-e6cd9d9c46fa)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/b52cdf87-009b-4f8d-bc35-25e07ada5b81)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/7129f69b-f87f-4158-9544-23344fe15395)
