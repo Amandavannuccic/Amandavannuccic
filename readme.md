@@ -36,9 +36,3 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/b52cdf87-009b-4f8d-bc35-25e07ada5b81)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/7129f69b-f87f-4158-9544-23344fe15395)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/a77e715b-b4a4-4982-b1e1-b932830ed5f7)
-
-   
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandavannuccic-username&show_icons=true)
-
