@@ -4,7 +4,7 @@
 <h3 align="center">Sou Amanda Vannucci e estou feliz em te receber por aqui!</h3>
 
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/43fec760-0e5f-467c-9922-c88e06a5f7c3)
-Atualmente trabalho em projetos pessoais e da faculdade em linguagem Python.
+Atualmente trabalho no desenvolvimento da aplicação "Avaliação 360º" e do projeto de desenvolvimento de farmaco in sílico ambos em linguagem Python.
   
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/5b4d9959-7716-4a9a-8e8d-3c7d96de26d4)
 Estou em processo de aprendizagem de linguagem Python e bibliotecas como Tkinter e Matplotlib.
