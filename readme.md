@@ -31,6 +31,7 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 
   
 ## Meus Repositórios:
+Vale ressaltar que meus repositórios estão em constante construção! 
 
 [![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/f586cfe5-ba13-43aa-86be-68c571e4e394)](https://github.com/Amandavannuccic/Banco-de-Dados)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/eb505c11-e51a-48f4-8ad3-e6cd9d9c46fa)
@@ -39,5 +40,3 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/a77e715b-b4a4-4982-b1e1-b932830ed5f7)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0dc54dc2-ed4a-469d-b3b7-9947c4901789)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0bcabec6-8f2d-428f-8278-acab84e2e993)
-
-Vale ressaltar que meus repositórios estão em constante construção! 
