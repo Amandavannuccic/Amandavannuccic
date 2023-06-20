@@ -40,3 +40,4 @@ Linguagens de programação e ferramentas com as quais estou familiarizada:
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0dc54dc2-ed4a-469d-b3b7-9947c4901789)
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0bcabec6-8f2d-428f-8278-acab84e2e993)
 
+Vale ressaltar que meus repositórios estão em constante construção! 
