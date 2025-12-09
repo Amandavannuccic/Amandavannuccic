@@ -17,7 +17,7 @@ Procuro colaborar em projetos de desenvolvimento de aplicações pela Fatec-SJC.
 Gosto de falar sobre Python, Java, C, SQL, Jira, Confluence, MySQL, MongoDB e Readme.md; Ou quaisquer assuntos relacionados a qualidade de Software.
   
 ![LinkedIn](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/07e47601-1961-4d85-b2e1-abb9e4f42def)
-Você pode me encontrar através de meu [linkedin](https://www.linkedin.com/in/amanda-vannucci-de-campos/)
+Você pode me encontrar através de meu [linkedin](https://www.linkedin.com/in/amanda-vannucci/)
  
 ## Linguagens e Ferramentas
 Linguagens de programação e ferramentas com as quais estou familiarizada:
