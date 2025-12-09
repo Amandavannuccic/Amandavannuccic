@@ -4,17 +4,17 @@
 <h3 align="center">Sou Amanda Vannucci e estou feliz em te receber por aqui!</h3>
 
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/43fec760-0e5f-467c-9922-c88e06a5f7c3)
-Atualmente trabalho com o desenvolvimento da aplicação "Avaliação 360º" e no projeto de desenvolvimento de farmacos in sílico, ambos em linguagem Python.
+Atualmente atuo como QA Tester no Grupo Txai, onde realizo criação, execução e documentação de testes de software, garantindo a qualidade e confiabilidade dos sistemas.
   
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/5b4d9959-7716-4a9a-8e8d-3c7d96de26d4)
-Estou em processo de aprendizagem de linguagem Python e bibliotecas como Tkinter e Matplotlib.
+Estou em processo de aprendizagem de linguagem Python, Java e C.
   
   
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/b93c6b5b-80ef-4e6d-baa0-b31bd7ca9893)
 Procuro colaborar em projetos de desenvolvimento de aplicações pela Fatec-SJC.
 
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/0babb94d-7ba6-4ad9-a77e-904810c1064e)
-Pergunte-me sobre Python, Customer Tkinter, Tkinter, Matplotlib e Readme.md.
+Gosto de falar sobre Python, Java, C, SQL, Jira, Confluence, MySQL, MongoDB e Readme.md; Ou quaisquer assuntos relacionados a qualidade de Software.
   
 ![LinkedIn](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/07e47601-1961-4d85-b2e1-abb9e4f42def)
 Você pode me encontrar através de meu [linkedin](https://www.linkedin.com/in/amanda-vannucci-de-campos/)
