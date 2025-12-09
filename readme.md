@@ -1,7 +1,10 @@
-## <h1 align="center"> Bem-vindo(a) ao meu repositório!![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/274959f4-3802-4c26-bcd1-89abcb1e56f1)
-<h1/> 
 
-<h3 align="center">Sou Amanda Vannucci e estou feliz em te receber por aqui!</h3>
+# <h1 align="center"> Bem-vindo(a) ao meu repositório!![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/274959f4-3802-4c26-bcd1-89abcb1e56f1)</h1>
+ 
+
+<h3 align="center">Sou Amanda Vannucci</h3>
+
+<h3 align="center">Estou feliz em te receber por aqui!</h3>
 
 ![image](https://github.com/Amandavannuccic/Amandavannuccic/assets/127263243/43fec760-0e5f-467c-9922-c88e06a5f7c3)
 Atualmente atuo como QA Tester no Grupo Txai, onde realizo criação, execução e documentação de testes de software, garantindo a qualidade e confiabilidade dos sistemas.
